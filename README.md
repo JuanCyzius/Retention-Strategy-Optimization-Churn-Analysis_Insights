@@ -65,6 +65,8 @@ The analysis focuses on four critical pillars:
 
 ---
 
+# 🧠 Conclusion
+
 This project demonstrates how data-driven decisions can reduce churn. By analyzing the Churner Profile, the business can now implement targeted loyalty programs and improve service offerings where they matter most.
 
 Developed with ❤️ by [Juan Cyzius]
